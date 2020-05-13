@@ -5,14 +5,14 @@ import { calloutLink } from './Homepage.module.scss';
 
 import Carbon from '../../images/cloud-data.jpg';
 
-const FirstLeftText = () => <p>What is IBM Cloud Pak for Integration?</p>;
+const FirstLeftText = () => <p>What is IBM Cloud Pak for Allications?</p>;
 
 const FirstRightText = () => (
   <p>
-    A complete set of integration capabilities to efficiently connect your applications and data wherever they live.
+    The IBM Cloud Pak for Applications provides a complete and consistent experience and solution to modernize enterprise applications for cloud-native deployments.
     <a
       className={calloutLink}
-      href="https://www.ibm.com/cloud/cloud-pak-for-integration"
+      href="https://www.ibm.com/cloud/cloud-pak-for-applications"
     >
       Overview →
     </a>
@@ -33,7 +33,7 @@ const SecondRightText = () => (
   </p>
 );
 
-const BannerText = () => <h1>IBM Cloud Pak for Integration</h1>;
+const BannerText = () => <h1>IBM Cloud Pak for Applications</h1>;
 
 const customProps = {
   Banner: <HomepageBanner renderText={BannerText} image={Carbon} />,

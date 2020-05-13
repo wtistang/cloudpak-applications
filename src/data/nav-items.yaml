@@ -1,0 +1,31 @@
+- title: Overview
+  pages:
+    - path: /overview/
+- title: Sales Demos
+  pages:
+    - title: Social Shopping
+      path: /salesdemos/socialshopping/
+    - title: Travel Reservation
+      path: /salesdemos/travelreservation/
+- title: Tutorials
+  pages:
+    - title: Integration Modernization
+      path: /tutorials/integration-modernization
+    - title: Enterprise Grade Messaging
+      path: /tutorials/enterprise-grade-messaging
+    - title: Responsive Apps with Event Streams
+      path: /tutorials/augment-with-events
+    - title: Stream Data in Real Time
+      path: /tutorials/stream-data-in-real-time
+- title: Community
+  pages:
+    - title: Configuring LDAP
+      path: /community/ldap-config
+    - title: Deploy VM with Database
+      path: /community/deploydb
+- title: Resources
+  pages:
+    - path: /resources/
+- title: Contribute
+  pages:
+    - path: /contribute/
